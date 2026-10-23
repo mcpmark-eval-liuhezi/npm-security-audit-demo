@@ -4,8 +4,8 @@
   "description": "Security-awareness demo: intentionally vulnerable npm dependencies (do not install in production)",
   "private": true,
   "dependencies": {
-    "next": "16.4.0",
-    "tar": "7.5.18",
-    "jsonwebtoken": "4.2.1"
+    "next": "16.4.1",
+    "tar": "7.5.19",
+    "jsonwebtoken": "4.2.2"
   }
 }
